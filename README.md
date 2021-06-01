@@ -26,7 +26,13 @@ Objective:
 
 ### Next (tentative)
 
--   TODO
+-   Introduction:
+    -   Basic UI
+    -   Basic reactivity
+-   Shiny in action
+    -   Selected topics across multiple meetups.
+-   Best practices
+    -   Selected topics across multiple meetups.
 
 ### Resources
 
