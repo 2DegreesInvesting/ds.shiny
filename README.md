@@ -24,6 +24,18 @@ Objective:
 -   Understand what are the major pieces of an app and how they fit
     together.
 
+### A use case of a shiny app for 2DII
+
+This meetup takes a step back to motivate the use of shiny by showing a
+use case of a shiny app for 2DII. From the many reasons why people use
+shiny, this meetup covers only one – for more see the
+[Preface](https://mastering-shiny.org/preface.html) of [Mastering
+Shiny](https://mastering-shiny.org/).
+
+Objective:
+
+-   Understand why people use shiny via a concrete example.
+
 ### Next (tentative)
 
 -   Introduction:
