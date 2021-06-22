@@ -36,11 +36,23 @@ Objective:
 
 -   Understand why people use shiny via a concrete example.
 
+### Basic UI and Basic reactivity
+
+This meetup covers key elements of the section [Basic
+UI](https://mastering-shiny.org/basic-ui.html) and an introduction to
+[Basic reactivity](https://mastering-shiny.org/basic-reactivity.html) –
+which we’ll follow in later meetups.
+
+Objective:
+
+-   Understand the common structure of the input functions.
+-   Understand the mapping between input and output functions, and the
+    need for a render functions.
+
 ### Next (tentative)
 
--   Introduction:
-    -   Basic UI
-    -   Basic reactivity
+-   Introduction
+    -   Basic reactivity (continued).
 -   Shiny in action
     -   Selected topics across multiple meetups.
 -   Best practices

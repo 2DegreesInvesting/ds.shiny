@@ -17,7 +17,7 @@ A series of meetups about building and publishing interactive applications in R.
 
 ## Syllabus
 
-We’ll loosely follow the book [Mastering Shiny](https://mastering-shiny.org/) by
+We'll loosely follow the book [Mastering Shiny](https://mastering-shiny.org/) by
 Hadley Wickham. Each item in this syllabus corresponds to a meetup and a GitHub
 [release](https://github.com/2DegreesInvesting/ds.shiny/releases) that preserves
 a snapshot of this repository exactly as it was shown during thee meetup.
@@ -43,11 +43,24 @@ Objective:
 
 - Understand why people use shiny via a concrete example.
 
+### Basic UI and Basic reactivity
+
+This meetup covers key elements of the section [Basic
+UI](https://mastering-shiny.org/basic-ui.html) and an introduction to [Basic
+reactivity](https://mastering-shiny.org/basic-reactivity.html) -- which we'll
+follow in later meetups.
+
+Objective:
+
+* Understand the common structure of the input functions.
+* Understand the mapping between input and output functions, and the need for a
+render functions.
+
 ### Next (tentative)
 
-- Introduction:
-    - Basic UI
-    - Basic reactivity
+- Introduction
+  - Basic reactivity (continued).
+
 - Shiny in action
     - Selected topics across multiple meetups.
 - Best practices
