@@ -45,9 +45,9 @@ which we’ll follow in later meetups.
 
 Objective:
 
--   Understand the common structure of the input functions.
--   Understand the mapping between input and output functions, and the
-    need for a render functions.
+-   Understand the common structure of the input and output functions.
+-   Understand the mapping between output and render functions.
+-   Extract duplication in a `render()` functions.
 
 ### Next (tentative)
 
