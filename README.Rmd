@@ -52,8 +52,8 @@ follow in later meetups.
 
 Objective:
 
-* Understand the common structure of the input functions.
-* Understand the mapping between input and output functions, and the need for a
+- Understand the common structure of the input functions.
+- Understand the mapping between input and output functions, and the need for a
 render functions.
 
 ### Next (tentative)
@@ -68,6 +68,6 @@ render functions.
 
 ### Resources
 
-* https://mastering-shiny.org/index.html
-* https://shiny.rstudio.com/tutorial/
-* https://www.shinyapps.io/
+- https://mastering-shiny.org/index.html
+- https://shiny.rstudio.com/tutorial/
+- https://www.shinyapps.io/
