@@ -49,10 +49,24 @@ Objective:
 -   Understand the mapping between output and render functions.
 -   Extract duplication in a `render()` functions.
 
+### Basic reactivity
+
+This meetup covers key elements of the section [Basic
+reactivity](https://mastering-shiny.org/basic-reactivity.html).
+
+Objective:
+
+-   Understand the `input` and `output` arguments to the `server()`
+    function.
+-   Understand key properties of reactive programming.
+-   Interpret a reactive graph with inputs, reactive expressions, and
+    outputs.
+-   Understand why reactive expressions are important.
+-   Overview some ways of controlling how often a reactive expressions
+    is executed.
+
 ### Next (tentative)
 
--   Introduction
-    -   Basic reactivity (continued).
 -   Shiny in action
     -   Selected topics across multiple meetups.
 -   Best practices
