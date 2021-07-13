@@ -61,9 +61,19 @@ Objective:
 -   Understand key properties of reactive programming.
 -   Interpret a reactive graph with inputs, reactive expressions, and
     outputs.
+
+### Basic reactivity (continued)
+
+This meetup covers key elements of the section [Basic
+reactivity](https://mastering-shiny.org/basic-reactivity.html) that we
+did not have time to cover in the previous meetup.
+
+Objective:
+
+-   Understand how inputs and outputs are connected using a reactive
+    graph.
+-   Create a reactive graph with reactlog.
 -   Understand why reactive expressions are important.
--   Overview some ways of controlling how often a reactive expressions
-    is executed.
 
 ### Next (tentative)
 

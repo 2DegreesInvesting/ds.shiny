@@ -12,7 +12,7 @@
 
 # Think of your app as providing Shiny with recipes, not giving it commands.
 
-# Lazy ---
+# Lazy ----
 
 ui <- fluidPage(
   textInput("name", "What's your name?"),

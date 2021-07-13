@@ -6,13 +6,11 @@ ui <- fluidPage(
   textInput("name", "What's your name?"),
   textOutput("greeting")
 )
-
 server <- function(input, output, session) {
   output$greeting <- renderText({
     paste0("Hello ", input$name, "!")
   })
 }
-
 shinyApp(ui, server)
 
 
@@ -48,6 +46,9 @@ server <- function(input, output, session) {
 shinyApp(ui, server)
 #> Error: Can't access reactive value 'count' outside of reactive consumer.
 #> ℹ Do you need to wrap inside reactive() or observer()?
+
+
+
 
 
 
