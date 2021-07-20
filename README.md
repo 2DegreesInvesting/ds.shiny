@@ -75,6 +75,22 @@ Objective:
 -   Create a reactive graph with reactlog.
 -   Understand why reactive expressions are important.
 
+### Workflow
+
+This meetup is the fist one in the section “Shiny in action”. It covers
+key topics about “workflow” from [chapter
+5](https://mastering-shiny.org/action-workflow.html) and [section
+20.2.1](https://mastering-shiny.org/scaling-packaging.html#workflow).
+
+Objectives:
+
+-   Insert the skeleton of an app using RStudio template project and
+    app.
+-   Learn the basic development workflow using the keyboard and reload.
+-   Control the view.
+-   Run the app in a background job.
+-   Learn the workflow when the app lives in an R package.
+
 ### Next (tentative)
 
 -   Shiny in action

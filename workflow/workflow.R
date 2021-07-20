@@ -1,4 +1,8 @@
 # Worklow basics ----
+# Benefits
+# * Spend more time writing code
+# * More fun
+# * Learn faster
 # https://mastering-shiny.org/action-workflow.html
 
 # Development workflow
