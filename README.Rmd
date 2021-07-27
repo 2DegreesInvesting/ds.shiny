@@ -96,17 +96,28 @@ Objectives:
 
 ### Debugging
 
-This meetup covers tools to debug shiny apps, or more generally, ways to
-explore what might be wrong with your app.
+This meetup covers tools to debug shiny apps, or more generally, ways to explore
+what might be wrong with your app. The content and ideas loosely come from from
+the sections
+[Debugging](https://mastering-shiny.org/action-workflow.html#debugging),
+[Getting help](https://mastering-shiny.org/action-workflow.html#getting-help),
+and [Reactive
+programming](https://mastering-shiny.org/reactive-motivation.html#reactive-programming-1)
+of [Mastering shiny](https://mastering-shiny.org/),
+
+We'll debug an app that exposes the main three types of problems you may have:
+* You get an unexpected error. 
+* You don't get any errors, but some value is incorrect. 
+* All the values are correct, but they're not updated when you expect.
 
 Objectives: 
 
+* Read a traceback.
 * Debug any code with `browser()` for a single set of inputs.
 * Debug server code with `message()` as you change inputs from the apps' UI.
 * Use `shiny::reactiveConsole(TRUE)` to interact with server code outside an
+* Constrain the bug to a smaller section of code.
 app.
-* Create a reprex to help yourself and others catch the bug in the relevant
-code.
 
 ### Next (tentative)
 
