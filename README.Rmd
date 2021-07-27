@@ -94,6 +94,20 @@ Objectives:
 - Run the app in a background job.
 - Learn the workflow when the app lives in an R package.
 
+### Debugging
+
+This meetup covers tools to debug shiny apps, or more generally, ways to
+explore what might be wrong with your app.
+
+Objectives: 
+
+* Debug any code with `browser()` for a single set of inputs.
+* Debug server code with `message()` as you change inputs from the apps' UI.
+* Use `shiny::reactiveConsole(TRUE)` to interact with server code outside an
+app.
+* Create a reprex to help yourself and others catch the bug in the relevant
+code.
+
 ### Next (tentative)
 
 - Shiny in action
