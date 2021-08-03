@@ -123,9 +123,9 @@ Objectives:
 ### Packages
 
 This meetup covers key elements of the chapter
-[Pacakges](https://mastering-shiny.org/scaling-packaging.html) and
-selected topics from other chapters in the section Best Practices of
-Mastering Shiny.
+[Pacakges](https://mastering-shiny.org/scaling-packaging.html): How to
+use the infrastructure and tooling of an R package to develop shiny
+apps.
 
 Objectives:
 
