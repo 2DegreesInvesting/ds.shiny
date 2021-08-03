@@ -120,12 +120,23 @@ Objectives:
 * Use `shiny::reactiveConsole(TRUE)` to interact with server code outside an
 app.
 
+### Packages
+
+This meetup covers key elements of the chapter
+[Pacakges](https://mastering-shiny.org/scaling-packaging.html) and selected
+topics from other chapters in the section Best Practices of Mastering Shiny.
+
+Objectives:
+
+* Overview some benefits: Workflow, sharing, and testing.
+* Learn how to convert an existing app, and use R CMD check to guide you.
+* Learn how to deploy a packaged app to shinyapps.io.
+
+
 ### Next (tentative)
 
-- Shiny in action
-    - Selected topics across multiple meetups.
-- Best practices
-    - Selected topics across multiple meetups.
+* Publishing shiny apps.
+* Demos.
 
 ### Resources
 
