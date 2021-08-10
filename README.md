@@ -134,9 +134,39 @@ Objectives:
     you.
 -   Learn how to deploy a packaged app to shinyapps.io.
 
+### Publishing
+
+This meetup overviews different methods to publish shiny apps. We’ll
+focus on free services, noting what makes it interesting and poiting to
+resources to learn more.
+
+Objectives:
+
+-   Overview simple methods:
+
+    -   for browser users: <https://www.shinyapps.io/> (RStudio &gt;
+        Publish &gt; Manage Accounts &gt; Connect)
+    -   for R users: reprex via slack or <https://gist.github.com/>
+        ([details](https://mastering-shiny.org/action-workflow.html#reprex-basics)).
+
+-   Overview a moderately complex method for browser users: mybinder.org
+    ([details](https://florencia.netlify.app/2020/08/sharing-reproducible-and-interactive-environments-in-r-with-binder.en-us/),
+    [example](https://github.com/flor14/shiny_reproducibilidad_meetup)).
+
+-   Overview complex methods based on R packages:
+
+    -   for browser users:
+        [Deploy](https://mastering-shiny.org/scaling-packaging.html#deploying-your-app-package)
+        to <https://www.shinyapps.io/>
+        ([example](https://github.com/2DegreesInvesting/scenarioSelector/blob/master/app.R))
+    -   for R users: `install_github("owner/repo"); run_app()`
+        ([example](https://github.com/2DegreesInvesting/scenarioSelector/blob/master/R/run_app.R))
+    -   for R users: [RStudio
+        Addins](https://rstudio.github.io/rstudioaddins/)
+        (e.g. `reprex:::reprex_addin()`)
+
 ### Next (tentative)
 
--   Publishing shiny apps.
 -   Demos.
 
 ### Resources
