@@ -155,12 +155,12 @@ Objectives:
 
 -   Overview complex methods based on R packages:
 
+    -   for R users: `install_github("owner/repo"); run_app()`
+        ([example](https://github.com/2DegreesInvesting/scenarioSelector/blob/master/R/run_app.R))
     -   for browser users:
         [Deploy](https://mastering-shiny.org/scaling-packaging.html#deploying-your-app-package)
         to <https://www.shinyapps.io/>
         ([example](https://github.com/2DegreesInvesting/scenarioSelector/blob/master/app.R))
-    -   for R users: `install_github("owner/repo"); run_app()`
-        ([example](https://github.com/2DegreesInvesting/scenarioSelector/blob/master/R/run_app.R))
     -   for R users: [RStudio
         Addins](https://rstudio.github.io/rstudioaddins/)
         (e.g. `reprex:::reprex_addin()`)
