@@ -171,7 +171,7 @@ This meetup wraps up the series and shows some apps we built.
 
 Objectives:
 
--   Overview what this series covered and did not cover.
+-   Do a brief retrospective.
 -   Discuss freely.
 -   Show some shiny apps we built.
 
