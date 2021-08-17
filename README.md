@@ -137,7 +137,7 @@ Objectives:
 ### Publishing
 
 This meetup overviews different methods to publish shiny apps. We’ll
-focus on free services, noting what makes it interesting and poiting to
+focus on free services, noting what makes it interesting and pointing to
 resources to learn more.
 
 Objectives:
@@ -165,9 +165,15 @@ Objectives:
         Addins](https://rstudio.github.io/rstudioaddins/)
         (e.g. `reprex:::reprex_addin()`)
 
-### Next (tentative)
+### Wrap up and demos
 
--   Demos.
+This meetup wraps up the series and shows some apps we built.
+
+Objectives:
+
+-   Overview what this series covered and did not cover.
+-   Discuss freely.
+-   Show some shiny apps we built.
 
 ### Resources
 
